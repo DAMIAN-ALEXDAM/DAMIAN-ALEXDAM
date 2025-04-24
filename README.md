@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DAMIAN-ALEXDAM
+- 👋 Hi, I’m @DAMIAN-LAMAR
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning "c"/"html" 
 - 💞️ I’m looking to collaborate on 1337 / apple / microsoft
